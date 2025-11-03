@@ -1,0 +1,10 @@
+{
+  "name": "memory-assistant-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@google/genai": "^1.28.0",
+    "@vercel/node": "^3.2.3",
+    "typescript": "^5.3.0"
+  }
+}
